@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
