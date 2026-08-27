@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0128-longest-consecutive-sequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3658-gcd-of-odd-and-even-sums) |
