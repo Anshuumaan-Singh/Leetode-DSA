@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
