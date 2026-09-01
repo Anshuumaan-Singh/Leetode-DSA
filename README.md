@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
 ## Matrix
 |  |
