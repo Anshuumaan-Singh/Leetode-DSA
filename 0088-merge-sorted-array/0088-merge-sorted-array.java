@@ -1,23 +1,23 @@
 class Solution {
-    public void merge(int[] arr1, int m, int[] arr2, int n) {
-        int crr[] = new int[m+n];
+    public void merge(int[] arr, int m, int[] brr, int n) {
+        int [] crr = new int[m+n];
         int i = 0, j = 0, k = 0;
-        while(i<m && j<n){
-            if(arr1[i]<arr2[j]){
-                crr[k++] = arr1[i++];
+        while(i < m && j < n){
+            if(arr[i]<brr[j]){
+                crr[k++] = arr[i++];
             }
             else{
-                crr[k++] = arr2[j++];
+                crr[k++] = brr[j++];
             }
         }
         while(i<m){
-            crr[k++] = arr1[i++]; 
+            crr[k++] = arr[i++];
         }
         while(j<n){
-            crr[k++] = arr2[j++];
+            crr[k++] = brr[j++];
         }
-        for(int l= 0; l<arr1.length; l++){
-            arr1[l] = crr[l];
+        for(int l = 0; l<arr.length; l++){
+            arr[l] = crr[l];
         }
     }
-}
+} 
