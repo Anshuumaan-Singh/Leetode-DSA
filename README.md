@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
 | ------- |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
