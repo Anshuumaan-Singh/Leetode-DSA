@@ -11,7 +11,7 @@ class Solution {
                 }
             }
             else{
-                count = 0;;
+                count = 0;
             }
         } return max;
     }    
