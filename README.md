@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0713-subarray-product-less-than-k) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
