@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3658-gcd-of-odd-and-even-sums) |
