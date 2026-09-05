@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
