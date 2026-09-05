@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
 | ------- |
