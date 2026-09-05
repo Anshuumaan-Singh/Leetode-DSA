@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
