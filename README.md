@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0344-reverse-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
