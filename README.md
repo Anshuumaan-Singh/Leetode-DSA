@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
