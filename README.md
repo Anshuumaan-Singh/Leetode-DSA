@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0171-excel-sheet-column-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0160-intersection-of-two-linked-lists) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
