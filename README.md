@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0713-subarray-product-less-than-k) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
