@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -183,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
