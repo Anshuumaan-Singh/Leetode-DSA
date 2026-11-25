@@ -202,12 +202,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
